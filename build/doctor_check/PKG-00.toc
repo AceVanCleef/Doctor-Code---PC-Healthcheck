@@ -1,0 +1,60 @@
+('C:\\Files\\Projekte\\Inno Setup Training\\Doctor Code - PC '
+ 'Healthcheck\\build\\doctor_check\\doctor_check.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Files\\Projekte\\Inno Setup Training\\Doctor Code - PC '
+   'Healthcheck\\build\\doctor_check\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Files\\Projekte\\Inno Setup Training\\Doctor Code - PC '
+   'Healthcheck\\build\\doctor_check\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Files\\Projekte\\Inno Setup Training\\Doctor Code - PC '
+   'Healthcheck\\build\\doctor_check\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Files\\Projekte\\Inno Setup Training\\Doctor Code - PC '
+   'Healthcheck\\build\\doctor_check\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Files\\Projekte\\Inno Setup Training\\Doctor Code - PC '
+   'Healthcheck\\build\\doctor_check\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Files\\Projekte\\Inno Setup Training\\Doctor Code - PC '
+   'Healthcheck\\build\\doctor_check\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Files\\Projekte\\Inno Setup Training\\Doctor Code - PC '
+   'Healthcheck\\.venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Files\\Projekte\\Inno Setup Training\\Doctor Code - PC '
+   'Healthcheck\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\Files\\Projekte\\Inno Setup Training\\Doctor Code - PC '
+   'Healthcheck\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('doctor_check',
+   'C:\\Files\\Projekte\\Inno Setup Training\\Doctor Code - PC '
+   'Healthcheck\\src\\doctor_check.py',
+   'PYSOURCE')],
+ 'python315.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
